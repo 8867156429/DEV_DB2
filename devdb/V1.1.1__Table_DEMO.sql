@@ -7,6 +7,6 @@ CREATE TABLE To_Send
 
 );
 
-INSERT INTO All_In_One
+INSERT INTO To_Send
 VALUES ('MS', 'DHONI', 42), ('Rahul', 'Dravid', 52), ('Virat', 'Kholi', 38)
 ;
